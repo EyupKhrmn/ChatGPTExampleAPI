@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatGPTExampleAPI", "ChatGPTExampleAPI\ChatGPTExampleAPI.csproj", "{00E25EF7-D72C-4F3D-8191-3D063CE59FDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00E25EF7-D72C-4F3D-8191-3D063CE59FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00E25EF7-D72C-4F3D-8191-3D063CE59FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00E25EF7-D72C-4F3D-8191-3D063CE59FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00E25EF7-D72C-4F3D-8191-3D063CE59FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
